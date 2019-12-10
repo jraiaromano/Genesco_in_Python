@@ -1,6 +1,6 @@
 # Genesco_in_Python
 ## Overview
-This is the repo for a class project in which I used Python to analyze sales data provided by Genesco. The task was to provide insights to drive sales strategy. Class findings were pooled and presented in this [slideshow](https://docs.google.com/presentation/d/12-EkV8VKcAQrfFbjfcds6SPBrew4cuEDSPy7VYWRjKg/edit?usp=sharing). I, along with 2 other classmates, presented this on behalf of the class to a team of 6 Genesco executives. 
+This is the repo for a class project in which I used Python to analyze sales data provided by Genesco. The task was to provide insights to drive sales strategy. Class findings were pooled and presented in a slideshow. I, along with 2 other classmates, presented this on behalf of the class to a team of 6 Genesco executives. 
 
 ## Project Takeaways
 This data had Just So. Many. Columnss. 114 to be precise. Just an absolute mess to work with. With such a big dataset, melting and .query were my friends, as was pickling. It became very important to be able to group by... anything, really, in order to save processing time. 
