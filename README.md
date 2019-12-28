@@ -3,7 +3,7 @@
 This is the repo for a class project in which I used Python to analyze sales data provided by Genesco. The task was to provide insights to drive sales strategy. Class findings were pooled and presented in a slideshow. I, along with 2 other classmates, presented this on behalf of the class to a team of 6 Genesco executives. 
 
 ## Project Takeaways
-This data had Just So. Many. Columnss. 114 to be precise. Just an absolute mess to work with. With such a big dataset, melting and .query were my friends, as was pickling. It became very important to be able to group by... anything, really, in order to save processing time. 
+This data had Just So. Many. Columns. 114 to be precise. Just an absolute mess to work with. With such a big dataset, melting and .query were my friends, as was pickling. It became very important to be able to group by... anything, really, in order to save processing time. 
 ## The Pitch
 Comparative sales increase is the "holy grail of retail", and so our project partner wants to understand how well the metrics his company collects help explain the change in sales for a given week for one fiscal year compared to the same week for the previous fiscal year. Comparing sales for the same period in two consecutive years is a measure of growth for the company and provides value to shareholders.
 Genesco would like us to answer the following questions:
@@ -21,9 +21,15 @@ Originally, my team decided to break the dataset up into general sections: emplo
 ![Comp% vs Footwear/Nonfootwear Units Sold](https://user-images.githubusercontent.com/52726447/69393986-4fb84b00-0ca0-11ea-93b3-a9e73e33c2d4.png)
 
 Team:
-David
-Peter
-Seth
+
+[David](https://github.com/dpowell89)
+
+[Peter](https://github.com/PBusienei)
+
+[Seth](https://github.com/SethR2025)
+
 Fellow presenters:
-Doug
-Peter
+
+[Doug](https://github.com/Djtvdoug)
+
+[Peter](https://github.com/PBusienei)
